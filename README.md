@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yvetverhoeven
 - 👀 I’m interested in a part time job for Front End Development.
 - 🌱 I’m currently learning Front End Development.
-- 💞️ I’m looking to collaborate on anyprojects.
+- 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me via yvetverhoeven@hotmail.com
 
 <!---
